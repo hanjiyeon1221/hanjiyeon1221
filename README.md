@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&&color=0:EAD6EE,100:A0F1EA&height=300&section=header&text=YONI%20Github👩🏻&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&&color=0:EAD6EE,100:A0F1EA&height=300&section=header&text=YONI%20Github💜&fontSize=90" />
 
 ### Hi there 👋
 안녕하세요! 도전을 즐기며 끝없이 달려나가는 웹퍼블리셔 한지연입니다 :)
